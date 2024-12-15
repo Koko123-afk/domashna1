@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\za 16.12\domashnichka\zadaca 9\bin\Debug\zadaca 9.exe.config
+C:\Users\User\source\repos\za 16.12\domashnichka\zadaca 9\bin\Debug\zadaca 9.exe
+C:\Users\User\source\repos\za 16.12\domashnichka\zadaca 9\bin\Debug\zadaca 9.pdb
+C:\Users\User\source\repos\za 16.12\domashnichka\zadaca 9\obj\Debug\zadaca 9.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\za 16.12\domashnichka\zadaca 9\obj\Debug\zadaca 9.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\za 16.12\domashnichka\zadaca 9\obj\Debug\zadaca 9.exe
+C:\Users\User\source\repos\za 16.12\domashnichka\zadaca 9\obj\Debug\zadaca 9.pdb
